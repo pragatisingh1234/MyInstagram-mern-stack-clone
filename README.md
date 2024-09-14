@@ -22,6 +22,7 @@ To get started with the project, follow these installation steps:
 
 ## Screenshots
 ### Signup page
+![signup](https://github.com/user-attachments/assets/48e5791e-d816-4362-854a-6fc05549c63c)
 
 ### Createpost
 ![Createpost](https://github.com/user-attachments/assets/d2ad6b61-7268-4103-b7e5-f5667598a58b)
